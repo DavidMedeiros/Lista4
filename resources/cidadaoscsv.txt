@@ -1,0 +1,7 @@
+Maria do Carmo,70,Malhação,Caminhada
+Inês Brasil,46,Dança,Corrida
+George Martin,67
+Chuck Norris,75,Boxe,Kung fu,Ciclismo,Natação
+Ariel,19,Natação
+Capitão Nascimento,39,Malhação,Artilharia,Corrida,Boxe
+David Medeiros,19, Caminhada, Malhacao
